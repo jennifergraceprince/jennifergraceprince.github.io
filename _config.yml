@@ -1,11 +1,11 @@
 # Site settings
 author: Jennifer Prince
-title: 
+title: Eye Of The Tiger
 header-img: img/home-bg.png
 email: jennifergraceprince@gmail.com
 copyright_name: Jennifer Prince
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My Software Engineering School Blog
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  jennifergraceprince
