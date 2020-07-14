@@ -17,6 +17,10 @@ $ bin/learn-about-cats
 
 And then arrive at a menu showing a welcome menu, initial list of 10 breeds, and navigation options.
 
+Here is a 15-second giphy demo to give you an idea of my program:
+
+<iframe src="https://giphy.com/embed/dry8LD0cbTS5B2HKZm" width="480" height="349" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dry8LD0cbTS5B2HKZm">via GIPHY</a></p>
+
 From this view, the user can navigate through a broken-out list of 10 breeds at a time, or view all breeds at once.
 
 The user may select a breed either by typing it's name, or corresponding menu number.  I used the .downcase method to make sure the user's entry would not be case-sensitive.
@@ -26,10 +30,6 @@ When the user has selected a breed, the user will then arrive at a submenu for t
 There is more information available on the breed page itself, such as "Health", "Finding", and a breed rating, so there is a fifth option, "View On Web", that allows the user to actually open the breed's individual web page from the command line.  This option gives a message in the terminal that the user's web browser is opening, as well as the option to continue using the program by staying on the submenu or navigating back to the main menu.
 
 The user can type "exit" at any point in the program to leave the program.
-
-Here is a 15-second giphy demo to give you an idea of my program:
-
-<iframe src="https://giphy.com/embed/dry8LD0cbTS5B2HKZm" width="480" height="349" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dry8LD0cbTS5B2HKZm">via GIPHY</a></p>
 
 I really enjoyed building this program overall.  I ran into some challenges along the way.  
 
