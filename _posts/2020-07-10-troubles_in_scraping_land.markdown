@@ -47,8 +47,11 @@ I also struggled with the challenge of really time management, which is an impor
 
 Another issue I ran into, is actually one that I've been actively working on at my day job as well where I work as a QA Engineer.  I am often able to figure out code and write automation code, but I struggle with articulating abstract concepts verbally.  I am from a creative background and primarily a visual learner/learn by doing type - probably why the UI portion of my program was my favorite - and I struggled being "on the spot" this during my review, my brain kind of freezes up and the words don't always come.  I made sure to review abstract concepts prior to my second review so that hopefully I may explain them better and better demonstrate my understanding of the material.
 
-Overall I really enjoyed this experience.  I'm actually glad that I failed my first review because I gained a lot of knowledge by having a second go, and better internalized the concepts we've learned so far in studying Ruby.
+I'm actually glad that I failed my first review because I gained a lot of knowledge by having a second go and refactoring my program, and better internalized the concepts we've learned so far in studying Ruby.
 
+During my second review, we went over some refactoring and live coding. I realize I can improve my ability to perform live coding by joining more study groups.
+
+Overall I really enjoyed this experience.  
 
 
 
